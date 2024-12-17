@@ -1,0 +1,4 @@
+дек. 17, 2024 9:00:33 PM com.graphs.GraphApp <clinit>
+INFO: GraphApp logger initialized.
+дек. 17, 2024 9:00:33 PM com.graphs.GraphApp start
+INFO: Starting the GraphApp...

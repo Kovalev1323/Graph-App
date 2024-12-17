@@ -1,0 +1,8 @@
+дек. 17, 2024 9:30:54 PM com.graphs.GraphUtils multiplyMatrices
+INFO: Начато умножение матриц размером: 5x5
+дек. 17, 2024 9:30:54 PM com.graphs.GraphUtils multiplyMatrices
+INFO: Умножение матриц завершено.
+дек. 17, 2024 9:30:54 PM com.graphs.GraphUtils multiplyMatrices
+INFO: Начато умножение матриц размером: 5x5
+дек. 17, 2024 9:30:54 PM com.graphs.GraphUtils multiplyMatrices
+INFO: Умножение матриц завершено.
