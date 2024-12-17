@@ -1,0 +1,59 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-locale
+'en'
+-classpath
+'C:/Users/koval/.m2/repository/org/apache/logging/log4j/log4j-core/2.24.2/log4j-core-2.24.2.jar;C:/Users/koval/.m2/repository/org/apache/logging/log4j/log4j-api/2.24.2/log4j-api-2.24.2.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-controls/23.0.1/javafx-controls-23.0.1.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-controls/23.0.1/javafx-controls-23.0.1-win.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-graphics/23.0.1/javafx-graphics-23.0.1.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-fxml/23.0.1/javafx-fxml-23.0.1.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-fxml/23.0.1/javafx-fxml-23.0.1-win.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-graphics/23.0.1/javafx-graphics-23.0.1-win.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-base/23.0.1/javafx-base-23.0.1.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-base/23.0.1/javafx-base-23.0.1-win.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-graphics/23.0.1/javafx-graphics-23.0.1-linux.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-graphics/23.0.1/javafx-graphics-23.0.1-mac.jar;C:/Users/koval/.m2/repository/org/openjfx/javafx-graphics/23.0.1/javafx-graphics-23.0.1-mac-aarch64.jar'
+-encoding
+'UTF-8'
+-public
+-source
+'23'
+-sourcepath
+'C:/Users/koval/IdeaProjects/GraphApp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/koval/IdeaProjects/GraphApp/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'GraphApp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'GraphApp 1.0-SNAPSHOT API'
+com.graphs
+C:\Users\koval\.m2\repository\org\apache\logging\log4j\log4j-core\2.24.2\log4j-core-2.24.2.jar = 1734297980551
+C:\Users\koval\.m2\repository\org\apache\logging\log4j\log4j-api\2.24.2\log4j-api-2.24.2.jar = 1734297979014
+C:\Users\koval\.m2\repository\org\openjfx\javafx-controls\23.0.1\javafx-controls-23.0.1.jar = 1734297980789
+C:\Users\koval\.m2\repository\org\openjfx\javafx-controls\23.0.1\javafx-controls-23.0.1-win.jar = 1734297980703
+C:\Users\koval\.m2\repository\org\openjfx\javafx-graphics\23.0.1\javafx-graphics-23.0.1.jar = 1734297980824
+C:\Users\koval\.m2\repository\org\openjfx\javafx-fxml\23.0.1\javafx-fxml-23.0.1.jar = 1734297978993
+C:\Users\koval\.m2\repository\org\openjfx\javafx-fxml\23.0.1\javafx-fxml-23.0.1-win.jar = 1734297978916
+C:\Users\koval\.m2\repository\org\openjfx\javafx-graphics\23.0.1\javafx-graphics-23.0.1-win.jar = 1734297980029
+C:\Users\koval\.m2\repository\org\openjfx\javafx-base\23.0.1\javafx-base-23.0.1.jar = 1734297978736
+C:\Users\koval\.m2\repository\org\openjfx\javafx-base\23.0.1\javafx-base-23.0.1-win.jar = 1734297979662
+C:\Users\koval\.m2\repository\org\openjfx\javafx-graphics\23.0.1\javafx-graphics-23.0.1-linux.jar = 1734297979274
+C:\Users\koval\.m2\repository\org\openjfx\javafx-graphics\23.0.1\javafx-graphics-23.0.1-mac.jar = 1734297981417
+C:\Users\koval\.m2\repository\org\openjfx\javafx-graphics\23.0.1\javafx-graphics-23.0.1-mac-aarch64.jar = 1734297980745
+C:\Users\koval\IdeaProjects\GraphApp\src\main\java = 1734390740277
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\allclasses-index.html = 1734462601919
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\allpackages-index.html = 1734462601923
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\element-list = 1734462601842
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\help-doc.html = 1734462601964
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\index-all.html = 1734462601953
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\index.html = 1734462601959
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\member-search-index.js = 1734462601931
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\module-search-index.js = 1734462601925
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\overview-tree.html = 1734462601895
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\package-search-index.js = 1734462601928
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\search.html = 1734462601956
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\tag-search-index.js = 1734462601933
+C:\Users\koval\IdeaProjects\GraphApp\target\reports\apidocs\type-search-index.js = 1734462601929
