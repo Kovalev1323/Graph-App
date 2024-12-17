@@ -1,0 +1,2179 @@
+Логирование перенаправлено как в консоль, так и в файл: C:\Users\koval\OneDrive\Документы\GitHub\Graph-App\out\artifacts\GraphApp_jar\log.txt
+дек. 17, 2024 10:57:43 PM com.sun.javafx.application.PlatformImpl startup
+WARNING: Unsupported JavaFX configuration: classes were loaded from 'unnamed module @1451289d'
+дек. 17, 2024 10:57:44 PM com.graphs.GraphApp start
+INFO: Starting the GraphApp...
+дек. 17, 2024 10:57:44 PM com.graphs.GraphApp start
+INFO: Starting the GraphApp...
+дек. 17, 2024 10:57:44 PM com.graphs.GraphRenderer <init>
+INFO: GraphRenderer instance created.
+дек. 17, 2024 10:57:47 PM com.graphs.GraphApp generateGraph
+INFO: Generating graph with 5 nodes and 1 cycles.
+дек. 17, 2024 10:57:47 PM com.graphs.GraphApp generateGraph
+INFO: Generating graph with 5 nodes and 1 cycles.
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer generateGraph
+INFO: Generating graph with 5 nodes and 1 cycles.
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer clearHighlight
+INFO: Clearing all highlights.
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer generateSingleCycleGraph
+INFO: Generating single-cycle graph.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 1 and translation (0, 0).
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:48 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+дек. 17, 2024 10:57:48 PM com.graphs.GraphApp$1 succeeded
+INFO: Graph successfully generated.
+дек. 17, 2024 10:57:48 PM com.graphs.GraphApp$1 succeeded
+INFO: Graph successfully generated.
+дек. 17, 2024 10:57:49 PM com.graphs.GraphRenderer getAdjacencyMatrix
+INFO: Returning adjacency matrix.
+дек. 17, 2024 10:57:49 PM com.graphs.GraphApp showCycleCountResult
+INFO: Cycle count: 1
+дек. 17, 2024 10:57:49 PM com.graphs.GraphApp showCycleCountResult
+INFO: Cycle count: 1
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,9 and translation (0, 0).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,81 and translation (0, 0).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (0, 0).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:50 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+дек. 17, 2024 10:57:54 PM com.graphs.GraphRenderer getAdjacencyMatrix
+INFO: Returning adjacency matrix.
+дек. 17, 2024 10:57:54 PM com.graphs.GraphApp showCycleCountResult
+INFO: Cycle count: 1
+дек. 17, 2024 10:57:54 PM com.graphs.GraphApp showCycleCountResult
+INFO: Cycle count: 1
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer handleNodeClick
+INFO: Handling node click event.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer toggleNodeHighlight
+INFO: Toggling highlight for node 2.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (0, 0).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (1, 0).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (2, 0).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (4, 3).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (5, 5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (8, 9).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (10, 12).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (12, 16).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (15, 24).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (17, 28).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (20, 34).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (24, 43).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (27, 53).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (30, 62).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (32, 68).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (34, 72).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (37, 84).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (37, 89).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (39, 101).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (40, 106).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (42, 112).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (43, 118).
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:57:59 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (44, 123).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 131).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 134).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 137).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 140).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 143).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 146).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 149).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 153).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 155).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 157).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 158).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 161).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 162).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 163).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 164).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 165).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 166).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 167).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer handleNodeClick
+INFO: Handling node click event.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer handleNodeClick
+INFO: Handling node click event.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer toggleNodeHighlight
+INFO: Toggling highlight for node 3.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (46, 167).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:00 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (47, 167).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (47, 168).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (47, 170).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (47, 171).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (47, 174).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (47, 177).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (47, 179).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (45, 181).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (44, 183).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (43, 186).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (41, 188).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (41, 191).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (39, 194).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (38, 196).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (36, 200).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (34, 203).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (33, 206).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (32, 209).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (30, 213).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (29, 217).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (28, 221).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (26, 226).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (21, 235).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (18, 240).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (17, 243).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (14, 248).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (13, 251).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (11, 254).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (10, 257).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (8, 260).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (8, 263).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (6, 266).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (4, 268).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (3, 271).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (2, 272).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (2, 273).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (1, 274).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer handleNodeClick
+INFO: Handling node click event.
+дек. 17, 2024 10:58:01 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer handleNodeClick
+INFO: Handling node click event.
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer toggleNodeHighlight
+INFO: Toggling highlight for node 4.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,729 and translation (1, 274).
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:02 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,656 and translation (1, 274).
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,59 and translation (1, 274).
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:03 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,531 and translation (1, 274).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,478 and translation (1, 274).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,526 and translation (1, 274).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,579 and translation (1, 274).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,637 and translation (1, 274).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
+Adjacency matrix: [[1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0], [1, 0, 0, 0, 0]]
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawGraph
+INFO: Drawing graph with 5 nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer clearCanvas
+INFO: Clearing canvas.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer setupGraphicsContext
+INFO: Setting up graphics context with scale 0,7 and translation (1, 274).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer calculateRadius
+INFO: Calculated graph radius: 435.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNodes
+INFO: Drawing nodes.
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 0 at position (885, 201,5).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 1 at position (584,422, 615,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 2 at position (98,078, 457,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 3 at position (98,078, -54,187).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawNode
+INFO: Drawing node 4 at position (584,422, -212,21).
+дек. 17, 2024 10:58:04 PM com.graphs.GraphRenderer drawEdges
+INFO: Drawing edges.
